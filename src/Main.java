@@ -4,5 +4,6 @@ public class Main {
         System.out.println("This is a demo JAVA project to run from Jenkins");
         System.out.println("Jenkins first project , build using Jenkinsgi");
         System.out.println("second commit");
+        System.out.println("This is a first demo branch code");
     }
 }
